@@ -217,7 +217,7 @@ class TestaQuestoes {
         }
 
         // Exibe o total de acertos no final
-        System.out.println("Você acertou " + acertos + " de 15 perguntas.");
+        System.out.println("Você acertou " + acertos + " de 15 perguntas. Parabens!");
 
         // Exibe o total de acertos e a porcentagem no final
         double porcentagem = ((double) acertos / 15) * 100;
